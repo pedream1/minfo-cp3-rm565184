@@ -1,5 +1,5 @@
 # Utilização de argumentos
-No script minfo.sh, há quatro tipos de argumentos que são utilizados para receber algumas 
+No script minfo.sh, há quatro tipos de argumentos que são utilizados para receber algumas informações do sistema.
 
 
 ## Coletor de Dados - Script
